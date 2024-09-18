@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Titanic Survival Prediction Model
 
 This project predicts the survival of passengers aboard the Titanic based on a dataset of various passenger attributes such as age, gender, fare, class, etc. Using machine learning algorithms, the model achieves an accuracy of **99.44%**.
@@ -99,4 +98,3 @@ If you want to contribute to the project, feel free to fork the repository, make
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> 4536d26 (Add README and requirements.txt)
